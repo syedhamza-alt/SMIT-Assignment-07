@@ -1,4 +1,4 @@
-/*
+
 //Chap#1 Alerts
 //1
 alert("Hello World");
@@ -36,7 +36,7 @@ var qualification="Certified Mobile Application Development"
 alert(studentsName);
 alert(age);
 alert(qualification);
-*/
+
 //5
 var variable="PIZZA\nPIZZ\nPIZ\nPI\nP";
 alert(variable);
